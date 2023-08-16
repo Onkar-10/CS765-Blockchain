@@ -1,0 +1,118 @@
+The Peer is 2, the number of blocks in the blockchain is 71
+Time: 0.0, ID: 0, PID: -1, Miner:2, Size:1, number_of_transactions:0
+Time: 1699.558, ID: 8, PID: 0, Miner:7, Size:1, number_of_transactions:0
+Time: 1699.618, ID: 11, PID: 0, Miner:10, Size:1, number_of_transactions:0
+Time: 4044.44, ID: 18, PID: 11, Miner:10, Size:1, number_of_transactions:0
+Time: 4044.466, ID: 31, PID: 8, Miner:4, Size:325, number_of_transactions:324
+Time: 4243.154, ID: 49, PID: 31, Miner:4, Size:497, number_of_transactions:496
+Time: 6606.833, ID: 70, PID: 49, Miner:7, Size:59, number_of_transactions:58
+Time: 6606.95, ID: 61, PID: 49, Miner:10, Size:59, number_of_transactions:58
+Time: 6788.95, ID: 94, PID: 70, Miner:0, Size:434, number_of_transactions:433
+Time: 6789.145, ID: 71, PID: 61, Miner:10, Size:7, number_of_transactions:6
+Time: 7173.175, ID: 111, PID: 94, Miner:4, Size:37, number_of_transactions:36
+Time: 8147.272, ID: 124, PID: 111, Miner:9, Size:87, number_of_transactions:86
+Time: 8147.363, ID: 119, PID: 111, Miner:10, Size:87, number_of_transactions:86
+Time: 8611.071, ID: 146, PID: 124, Miner:4, Size:189, number_of_transactions:188
+Time: 9407.932, ID: 155, PID: 146, Miner:4, Size:110, number_of_transactions:109
+Time: 11983.057, ID: 185, PID: 155, Miner:7, Size:163, number_of_transactions:162
+Time: 12235.588, ID: 204, PID: 185, Miner:9, Size:549, number_of_transactions:548
+Time: 14723.123, ID: 213, PID: 204, Miner:9, Size:57, number_of_transactions:56
+Time: 14723.21, ID: 216, PID: 204, Miner:10, Size:57, number_of_transactions:56
+Time: 14980.995, ID: 242, PID: 213, Miner:7, Size:536, number_of_transactions:535
+Time: 14981.057, ID: 224, PID: 216, Miner:10, Size:288, number_of_transactions:287
+Time: 15453.894, ID: 262, PID: 242, Miner:4, Size:51, number_of_transactions:50
+Time: 15925.51, ID: 271, PID: 262, Miner:4, Size:105, number_of_transactions:104
+Time: 19465.752, ID: 288, PID: 271, Miner:9, Size:97, number_of_transactions:96
+Time: 19465.842, ID: 283, PID: 271, Miner:10, Size:97, number_of_transactions:96
+Time: 20544.995, ID: 310, PID: 288, Miner:9, Size:692, number_of_transactions:691
+Time: 20545.038, ID: 293, PID: 283, Miner:10, Size:99, number_of_transactions:98
+Time: 20997.627, ID: 335, PID: 310, Miner:3, Size:227, number_of_transactions:226
+Time: 20997.939, ID: 294, PID: 293, Miner:10, Size:233, number_of_transactions:232
+Time: 25158.622, ID: 360, PID: 335, Miner:7, Size:99, number_of_transactions:98
+Time: 25158.687, ID: 301, PID: 294, Miner:10, Size:362, number_of_transactions:361
+Time: 26951.131, ID: 381, PID: 360, Miner:3, Size:822, number_of_transactions:821
+Time: 26951.482, ID: 318, PID: 301, Miner:10, Size:135, number_of_transactions:134
+Time: 28852.156, ID: 348, PID: 318, Miner:10, Size:98, number_of_transactions:97
+Time: 28852.175, ID: 400, PID: 381, Miner:4, Size:340, number_of_transactions:339
+Time: 31072.9, ID: 421, PID: 348, Miner:9, Size:362, number_of_transactions:361
+Time: 31072.99, ID: 369, PID: 348, Miner:10, Size:822, number_of_transactions:821
+Time: 31516.479, ID: 454, PID: 421, Miner:7, Size:470, number_of_transactions:469
+Time: 31516.578, ID: 394, PID: 369, Miner:10, Size:340, number_of_transactions:339
+Time: 33542.238, ID: 410, PID: 394, Miner:10, Size:99, number_of_transactions:98
+Time: 33542.242, ID: 473, PID: 454, Miner:4, Size:113, number_of_transactions:112
+Time: 35167.041, ID: 411, PID: 410, Miner:10, Size:34, number_of_transactions:33
+Time: 35167.071, ID: 496, PID: 473, Miner:4, Size:418, number_of_transactions:417
+Time: 35718.371, ID: 415, PID: 411, Miner:10, Size:231, number_of_transactions:230
+Time: 35718.378, ID: 517, PID: 496, Miner:4, Size:316, number_of_transactions:315
+Time: 40056.262, ID: 543, PID: 415, Miner:3, Size:101, number_of_transactions:100
+Time: 40056.557, ID: 440, PID: 415, Miner:10, Size:470, number_of_transactions:469
+Time: 40191.309, ID: 458, PID: 440, Miner:10, Size:31, number_of_transactions:30
+Time: 40191.374, ID: 570, PID: 543, Miner:4, Size:853, number_of_transactions:852
+Time: 41220.326, ID: 465, PID: 458, Miner:10, Size:83, number_of_transactions:82
+Time: 41220.326, ID: 590, PID: 570, Miner:4, Size:23, number_of_transactions:22
+Time: 41691.869, ID: 482, PID: 465, Miner:10, Size:85, number_of_transactions:84
+Time: 41691.879, ID: 617, PID: 590, Miner:4, Size:211, number_of_transactions:210
+Time: 42552.995, ID: 483, PID: 482, Miner:10, Size:29, number_of_transactions:28
+Time: 42552.999, ID: 631, PID: 617, Miner:4, Size:80, number_of_transactions:79
+Time: 43967.752, ID: 660, PID: 631, Miner:5, Size:172, number_of_transactions:171
+Time: 43967.869, ID: 509, PID: 483, Miner:10, Size:316, number_of_transactions:315
+Time: 45037.433, ID: 532, PID: 509, Miner:10, Size:101, number_of_transactions:100
+Time: 45037.448, ID: 680, PID: 660, Miner:4, Size:278, number_of_transactions:277
+Time: 45188.326, ID: 698, PID: 532, Miner:9, Size:240, number_of_transactions:239
+Time: 45188.404, ID: 552, PID: 532, Miner:10, Size:103, number_of_transactions:102
+Time: 45291.069, ID: 726, PID: 698, Miner:7, Size:21, number_of_transactions:20
+Time: 45291.144, ID: 553, PID: 552, Miner:10, Size:400, number_of_transactions:399
+Time: 47155.479, ID: 747, PID: 726, Miner:7, Size:27, number_of_transactions:26
+Time: 47155.555, ID: 561, PID: 553, Miner:10, Size:352, number_of_transactions:351
+Time: 47866.745, ID: 770, PID: 747, Miner:7, Size:361, number_of_transactions:360
+Time: 47866.821, ID: 673, PID: 561, Miner:10, Size:278, number_of_transactions:277
+Time: 49973.329, ID: 795, PID: 770, Miner:7, Size:145, number_of_transactions:144
+Time: 49973.37, ID: 688, PID: 673, Miner:10, Size:50, number_of_transactions:49
+Time: 50000.067, ID: 739, PID: 688, Miner:10, Size:27, number_of_transactions:26
+Time: 50000.078, ID: 783, PID: 739, Miner:10, Size:144, number_of_transactions:143
+Cache
+ID: 153, PID: 137
+ID: 169, PID: 153
+Blockchain Longest Chain:
+Block ID: 0, Mined by: 2
+Block ID: 8, Mined by: 7
+Block ID: 31, Mined by: 4
+Block ID: 49, Mined by: 4
+Block ID: 70, Mined by: 7
+Block ID: 94, Mined by: 0
+Block ID: 111, Mined by: 4
+Block ID: 124, Mined by: 9
+Block ID: 146, Mined by: 4
+Block ID: 155, Mined by: 4
+Block ID: 185, Mined by: 7
+Block ID: 204, Mined by: 9
+Block ID: 213, Mined by: 9
+Block ID: 242, Mined by: 7
+Block ID: 262, Mined by: 4
+Block ID: 271, Mined by: 4
+Block ID: 283, Mined by: 10
+Block ID: 293, Mined by: 10
+Block ID: 294, Mined by: 10
+Block ID: 301, Mined by: 10
+Block ID: 318, Mined by: 10
+Block ID: 348, Mined by: 10
+Block ID: 369, Mined by: 10
+Block ID: 394, Mined by: 10
+Block ID: 410, Mined by: 10
+Block ID: 411, Mined by: 10
+Block ID: 415, Mined by: 10
+Block ID: 440, Mined by: 10
+Block ID: 458, Mined by: 10
+Block ID: 465, Mined by: 10
+Block ID: 482, Mined by: 10
+Block ID: 483, Mined by: 10
+Block ID: 509, Mined by: 10
+Block ID: 532, Mined by: 10
+Block ID: 552, Mined by: 10
+Block ID: 553, Mined by: 10
+Block ID: 561, Mined by: 10
+Block ID: 673, Mined by: 10
+Block ID: 688, Mined by: 10
+Block ID: 739, Mined by: 10
+Block ID: 783, Mined by: 10
+

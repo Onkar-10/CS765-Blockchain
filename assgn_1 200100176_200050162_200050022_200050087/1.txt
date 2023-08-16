@@ -1,0 +1,23 @@
+The Peer is 1, the number of blocks in the blockchain is 21
+Time: 0.0, ID: 0, PID: -1, Miner:1, Size:1, number_of_transactions:0
+Time: 152.247, ID: 4, PID: 0, Miner:3, Size:1, number_of_transactions:0
+Time: 658.94, ID: 17, PID: 4, Miner:2, Size:29, number_of_transactions:28
+Time: 917.888, ID: 27, PID: 17, Miner:6, Size:111, number_of_transactions:110
+Time: 989.322, ID: 31, PID: 27, Miner:6, Size:46, number_of_transactions:45
+Time: 2939.781, ID: 46, PID: 31, Miner:2, Size:15, number_of_transactions:14
+Time: 3554.278, ID: 58, PID: 46, Miner:0, Size:379, number_of_transactions:378
+Time: 3734.177, ID: 69, PID: 58, Miner:1, Size:120, number_of_transactions:119
+Time: 3835.238, ID: 74, PID: 69, Miner:2, Size:41, number_of_transactions:40
+Time: 4068.105, ID: 87, PID: 74, Miner:6, Size:24, number_of_transactions:23
+Time: 4086.892, ID: 97, PID: 87, Miner:5, Size:49, number_of_transactions:48
+Time: 4188.462, ID: 109, PID: 97, Miner:1, Size:3, number_of_transactions:2
+Time: 5920.919, ID: 111, PID: 109, Miner:1, Size:25, number_of_transactions:24
+Time: 6208.992, ID: 126, PID: 111, Miner:3, Size:323, number_of_transactions:322
+Time: 6430.753, ID: 135, PID: 126, Miner:7, Size:67, number_of_transactions:66
+Time: 6578.484, ID: 148, PID: 135, Miner:8, Size:41, number_of_transactions:40
+Time: 6747.51, ID: 159, PID: 148, Miner:6, Size:31, number_of_transactions:30
+Time: 6827.164, ID: 161, PID: 159, Miner:6, Size:31, number_of_transactions:30
+Time: 6973.95, ID: 172, PID: 161, Miner:0, Size:13, number_of_transactions:12
+Time: 7842.845, ID: 181, PID: 172, Miner:0, Size:34, number_of_transactions:33
+Time: 8922.636, ID: 194, PID: 181, Miner:2, Size:166, number_of_transactions:165
+Cache
